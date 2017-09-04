@@ -1,3 +1,4 @@
 # example
-a new trial
-This is a new page for any example/case learned from practice.
+This is the Python-example catalogue I developed during my learning process.
+
+1. douban_login.py
